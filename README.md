@@ -5,15 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
+- 🌱 I’m currently learning everything
+- 🤔 I’m looking for help with making connections
+- 💬 Ask me about any obscure science facts
+- 📫 How to reach me: dane.meister@stonybrook.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 -->
+# Hello! I'm Dane Meister,
+
+- 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
+- 🌱 I’m currently learning everything
+- 🤔 I’m looking for help with making connections
+- 💬 Ask me about any obscure science facts
+- 📫 How to reach me: dane.meister@stonybrook.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dane.meister) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dane.meister) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dane-meister-88937b23b) 
