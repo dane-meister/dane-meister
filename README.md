@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 -->
+
 # Hello! I'm Dane Meister,
 
 - 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
