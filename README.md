@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # Hello! I'm Dane Meister,
 
 - 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning... everything
 - 🤔 I’m looking for help with making connections
-- 💬 Ask me about any obscure science facts
-- 📫 How to reach me: dane.meister@stonybrook.edu
+- 💬 Ask me about any obscure science facts!
+- 📫 How to reach me: dane.meister@stonybrook.edu or my listed social media aliases
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 
