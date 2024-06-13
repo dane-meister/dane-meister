@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
 - 🌱 I’m currently learning... everything
 - 🤔 I’m looking for help with making connections
-- 💬 Ask me about any obscure science facts!
+- 💬 Ask me about my favorite indie games!
 - 📫 How to reach me: dane.meister@stonybrook.edu or my listed social media aliases
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
