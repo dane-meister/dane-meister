@@ -2,16 +2,6 @@
 
 <!--
 **dane-meister/dane-meister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
-- 🌱 I’m currently learning... everything I can
-- 🤔 I’m looking to make connections
-- 💬 Ask me about indie games!
-- 📫 How to reach me: dane.meister@stonybrook.edu, listed social media
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 -->
 
 # Hello! I'm Dane Meister,
