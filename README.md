@@ -6,11 +6,11 @@
 
 # Hello! I'm Dane Meister,
 
-- 🔭 I’m currently working on finishing my CS degree & CWL minor at Stony Brook University
-- 🌱 I’m currently learning... everything
-- 🤔 I’m looking for help with making connections
+- 🔭 I have a B.S.degree in Computer Science & Creative Writing & Literature minor from Stony Brook University ('25)
+- 🌱 I’m currently learning... as much as I can!
+- 🤔 I’m looking for connections :)
 - 💬 Ask me about my favorite indie games!
-- 📫 How to reach me: dane.meister@stonybrook.edu or my listed social media aliases
+- 📫 How to reach me: dane.meister.contact@gmail.com or my listed social media aliases
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote my first "Hello World" in Summer of 2022
 
