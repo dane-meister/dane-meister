@@ -6,7 +6,7 @@
 
 # Hello! I'm Dane Meister,
 
-- 🔭 I have a B.S.degree in Computer Science & Creative Writing & Literature minor from Stony Brook University ('25)
+- 🔭 I have a B.S. degree in Computer Science & Creative Writing & Literature minor from Stony Brook University ('25)
 - 🌱 I’m currently learning... as much as I can!
 - 🤔 I’m looking for connections :)
 - 💬 Ask me about my favorite indie games!
